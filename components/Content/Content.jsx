@@ -118,7 +118,7 @@ export default function Content() {
               />
             </div>
             <div className="ml-2 py-2 px-4 outline-none rounded-full bg-gray-100 w-full cursor-pointer text-xl text-gray-900 select-none hover:bg-gray-200">
-              What's on your mind?
+              What&apos;s on your mind?
             </div>
           </div>
           <div className="p-2 w-full">
